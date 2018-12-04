@@ -1,14 +1,14 @@
 #box1 {
     width: 200px;
     height: 200px;
-    background-color: blue;
+    background-color: green;
     float: left;
     margin-left: 20px;
 }
 #box2 {
     width: 200px;
     height: 200px;
-    background-color: purple;
+    background-color: blue;
     float: left;
     margin-left: 20px;
 }
@@ -22,21 +22,21 @@
 #box4 {
     width: 200px;   float: left;
     height: 200px;
-    background-color: firebrick;
+    background-color: yellow;
     margin-left: 20px;
 }
 #box1:hover {
-    background-color: orange;
+    background-color: maroon;
 }
 #box2:hover {
-    background-color: orange;
+    background-color: purple;
 }
 #box3:hover {
-    background-color: orange;
+    background-color: pink;
     width: 600px;
 }
 #box4:hover {
-    background-color:orange;
+    background-color:blue;
     width: 50px;
 }
 #box1:active {
