@@ -1,0 +1,53 @@
+#box1 {
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+    float: left;
+    margin-left: 20px;
+}
+#box2 {
+    width: 200px;
+    height: 200px;
+    background-color: purple;
+    float: left;
+    margin-left: 20px;
+}
+#box3 {
+    width: 200px;
+    height: 200px;
+    background-color: greenyellow;
+    float: left;
+    margin-left: 20px;
+}
+#box4 {
+    width: 200px;   float: left;
+    height: 200px;
+    background-color: firebrick;
+    margin-left: 20px;
+}
+#box1:hover {
+    background-color: orange;
+}
+#box2:hover {
+    background-color: orange;
+}
+#box3:hover {
+    background-color: orange;
+    width: 600px;
+}
+#box4:hover {
+    background-color:orange;
+    width: 50px;
+}
+#box1:active {
+    background-color: mediumturquoise;
+}
+#box2:active {
+    background-color: mediumturquoise;
+}
+#box3:active {
+    background-color: mediumturquoise;
+}
+#box4:active {
+    background-color: mediumturquoise;
+}
